@@ -14,7 +14,7 @@ export default function Home() {
         <button>Start Free Practice</button>
         <button>Explore Courses</button>
       </section>
-
+<AISection />
       <section>
         <h2>Why Choose Us?</h2>
 
