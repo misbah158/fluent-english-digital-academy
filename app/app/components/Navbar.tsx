@@ -1,3 +1,4 @@
+import Navbar from "@/components/Navbar";
 export default function Navbar() {
   return (
     <nav className="navbar">
