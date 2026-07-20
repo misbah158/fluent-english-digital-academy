@@ -2,6 +2,7 @@ import Navbar from "@/components/Navbar";
 export default function Navbar() {
   return ( 
     <main>
+      <Navbar />
     <nav className="navbar">
       <div className="logo">
         Fluent English Digital Academy
