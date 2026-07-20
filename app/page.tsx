@@ -1,3 +1,4 @@
+import AISection from "@/components/AISection";
 export default function Home() {
   return (
     <main>
