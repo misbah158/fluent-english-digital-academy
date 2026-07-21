@@ -2,6 +2,7 @@ import AISection from "@/components/AISection";
 export default function Home() {
   return (
     <main>
+      <Navbar />
       <section className="hero">
         <h1>Fluent English Digital Academy</h1>
         <h2>Speak English With Confidence</h2>
